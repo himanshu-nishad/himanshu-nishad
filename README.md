@@ -5,7 +5,7 @@
   <img src=""https://github.com/himanshu-nishad/my-image/blob/main/popplu.JPG"" alt="Himanshu Nishad" width="200" style="border-radius:50%;"/>
 </p>
 
-- 🌱 I’m currently learning **[Python-Numpy,Pandas,Matplotlib,Seaborn ,MYSQl ,PostGreSQL ,Power BI]**
+- 🌱 I’m currently learning **Python ,MYSQl ,PostGreSQL ,Power BI,Machine Learning**
   
 - 🌐 My Portfolio is available at https://github.com/himanshu-nishad
 
