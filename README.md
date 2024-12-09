@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Science & Analytics from Raipur,Chhattisgarh </h3>
 
 <p align="center">
-  <img src="""" alt="Himanshu Nishad" width="200" style="border-radius:50%;"/>
+  <img src=""https://github.com/himanshu-nishad/my-image/blob/main/popplu.JPG"" alt="Himanshu Nishad" width="200" style="border-radius:50%;"/>
 </p>
 
 - 🌱 I’m currently learning **[Python-Numpy,Pandas,Matplotlib,Seaborn ,MYSQl ,PostGreSQL ,Power BI]**
