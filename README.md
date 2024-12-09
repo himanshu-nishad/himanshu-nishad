@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Himanshu Nishad]</h1>
-<h3 align="center">A Passionate [Data Science & Analytics] from [Raipur,Chhattisgarh]</h3>
+<h1 align="center">Hi 👋, I'm  Himanshu Nishad</h1>
+<h3 align="center">A Passionate Data Science & Analytics from Raipur,Chhattisgarh </h3>
 
 <p align="center">
-  <img src="[Your Profile Image URL]" alt="[Your Name]" width="200" style="border-radius:50%;"/>
+  <img src=""D:\popplu.JPG"" alt="Himanshu Nishad" width="200" style="border-radius:50%;"/>
 </p>
 
 - 🌱 I’m currently learning **[Python-Numpy,Pandas,Matplotlib,Seaborn ,MYSQl ,PostGreSQL ,Power BI]**
