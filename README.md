@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate Data Science & Analytics from Raipur,Chhattisgarh </h3>
 
 <p align="center">
-  <img src=""D:\popplu.JPG"" alt="Himanshu Nishad" width="200" style="border-radius:50%;"/>
+  <img src="""" alt="Himanshu Nishad" width="200" style="border-radius:50%;"/>
 </p>
 
 - 🌱 I’m currently learning **[Python-Numpy,Pandas,Matplotlib,Seaborn ,MYSQl ,PostGreSQL ,Power BI]**
-
-- 🌐 My Portfolio is available at [Check Here](https://www.linkedin.com/in/himanshu-nishad/)
+  
+- 🌐 My Portfolio is available at https://github.com/himanshu-nishad
 
 - 📫 How to reach me **himanshun702@gamil**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin-profile]" target="blank">
+  <a href="https://www.linkedin.com/in/himanshu-nishad/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://instagram.com/[your-instagram-profile]" target="blank">
