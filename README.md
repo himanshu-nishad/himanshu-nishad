@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **himanshun702@gamil**
 
-- ⚡ Fun fact **[National Football Player & State Level University Football Champions]**
+- ⚡ Fun fact **National Football Player & State Level University Football Champions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
